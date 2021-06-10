@@ -1,8 +1,11 @@
 # PortfolioOne
 
-Goal: To create a responsive three page portfolio using Bootstrap with a navbar and functional links.
+Objective: To create a responsive three page portfolio using Bootstrap with a navbar and functional links.
 
-Fonts used: Font Awesome
+# Welcome to my portfolio.
+Here, I featured some of my most memorable projects from George Washington University's Full Stack Web Development program, built using a wide range of languages and frameworks such as Javascript, React, SQL, NodeJS, MongoDB and more. If you have any questions or suggestions for improvement, please email me at yohannes.kokhob@gmail.com
+
+Fonts used: Font Awesome, Google Fonts
 
 Languages used: HTML, CSS
 
